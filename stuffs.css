@@ -1,0 +1,72 @@
+body{
+	background-color:#0F75BD;
+}
+
+#navbar{
+
+	position:relative;
+
+	z-index:1;
+
+	font-size: 17px;
+
+	background-color:#5f5f5f;
+
+}
+
+#navbar a{
+
+	text-decoration:none;
+
+	background-color:#5f5f5f;
+
+	color:white;
+
+	font-family:"Verdana";
+
+}
+
+#navbar a.active{
+
+	background-color:green;
+
+
+
+}
+
+h1{
+	color:white;
+
+	font-size:50px;
+
+}
+
+#aboot{
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+#contactinfo{
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+#products{
+	padding-left: 42%;
+	padding-right: 42%;
+}
+
+p.friedchicken{
+	text-decoration:none;
+	background-color:#FDF5E6;
+	color:black;
+	padding-left:3%;
+	padding-right:3%;
+	padding-top:2%;
+	padding-bottom:2%;
+}
+
+img.logo{
+	width: auto;
+	height: 25%;
+}
